@@ -61,8 +61,8 @@ sizing and spacing as well.
 
 body {
 	font-family:Georgia;
-	color:#333;
-	background:#333;
+	color:#4a4a4a;
+	background:#fffafc;
 }
 
 /************* typography ************/
@@ -98,7 +98,7 @@ p {
 	margin-bottom:1em;
 }
 
-a { color: #4574b5; }
+a { color: #8fb8ff; }
 
 .social { font-size:175%; }
 
@@ -106,8 +106,8 @@ a { color: #4574b5; }
 
 /****************** Grid ******************/
 
-.primary { background:#b5b5b5; }
-.secondary { background:#efefef; }
+.primary { background:#f6c1cc; }
+.secondary { background:#f3efff; }
 
 
 /****************** Header and Main Navigation ****************/
@@ -144,8 +144,8 @@ header .wrapper {
 
 #mainnav ul li a {
 	display:block;
-	color: #4574b5;
-	border-left: 2px solid #4574b5;
+	color: #8fb8ff;
+	border-left: 2px solid #8fb8ff;
 	padding:0 20px;
 	font-size:20px;
 }
@@ -162,7 +162,7 @@ Removes the border on the first link...
 /***************** Section Specific Rules *****************/
 
 #work {
-	background:#fff;
+	background:#fffafc;
 	padding: 20px;
 }
 
